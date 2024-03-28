@@ -16,4 +16,10 @@ Group Members
 - Cole McMullin - 100700980
 - Abdullah Khan - 100755624
 </br>
+
+## Expected Output
+![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Client.png)
+![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Server.png)
+![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/UI.png)
+
 Submitted March 27, 2024
