@@ -19,15 +19,18 @@ Group Members
 
 ## Expected Output
 Client
-![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Client.png)
+</br>
+<img src="https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Client.png" height="200">
 </br>
 
 Server
-![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Server.png)
+</br>
+<img src="https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/Server.png" height="230">
 </br>
 
 User Interface
-![](https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/UI.png)
+</br>
+<img src="https://github.com/23Vishan/Computer_Security_Project/blob/main/Images/UI.png" height="245">
 </br>
 
 Submitted March 27, 2024
