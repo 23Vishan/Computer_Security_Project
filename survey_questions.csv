@@ -1,0 +1,67 @@
+Answer Type,Question Text
+PAGE,
+title,Personal Information
+label,Please Enter Your Personal Information Below:
+text,Name:
+text,Birth Date:
+text,Address:
+text,City and Province:
+text,Phone Number:
+text,Health Card Number:
+next,
+PAGE,
+title,Overall Self Assessment
+label,Please Tell Us How Healthy You Think You Are In The Following Catagories:
+radioHealth,Mental Health 
+radioHealth,Physical Health 
+radioHealth,Exercise 
+radioHealth,Diet 
+next,
+PAGE,
+title,Mental Health
+text,Please Tell Us A Bit About Your Assessment of Your Mental Health:
+label,How Often in the Past Month Have You Experienced These Emotions:
+radioFrequency,Anxiety 
+radioFrequency,Sadness 
+radioFrequency,Extreme Happyness 
+radioFrequency,Anger 
+radioFrequency,Self Loathing 
+radioFrequency,Tiredness 
+checkboxLabel,Please Tell Us If You Have Experienced Any Of These Feelings In The Past Month:
+checkbox,a feeling that you lack/struggle with the ability to control your physical actions
+checkbox,a desire to hurt yourself
+checkbox,a desire to hurt others
+checkbox,a feeling that you struggle to control your own thoughts/feelings
+checkbox,a feeling of helplessness
+checkbox,a feeling of impending doom
+checkbox,a feeling of worthlessness
+next,
+PAGE,
+title,Physical health
+text,Please Tell Us A Bit About Your Physical Health. 
+next,
+PAGE,
+title,Diet
+none,Please Tell Us A Few Things About Your Diet:
+text,How Often Do You Eat Meals During The Day On Average?
+text,How Big On Average Are Your Meals?
+text,What Kind Of Food Do You Normally Eat?
+text,How Often Do You Eat Snacks During The Day?
+next,
+PAGE,
+title,Exercise
+text,Please Tell Us A Bit About Your Daily Routine.
+label,How Often Per Week Would You Say You Do The Following:
+radioFrequency,Engage In High Intensity Exercise
+radioFrequency,Engage In Low Intensity Exercise
+radioFrequency,Work Out At A Gym Or At Home
+label,How Often Do You Experience The Following:
+radioFrequency,Physical Pain Either During Exercise Or While Not Exercising
+radioFrequency,Fatigue
+radioFrequency,Shortness of Breath
+text,Please Tell Us If There Is Anything You Are Concerned About When It Comes To Your Physical Health:
+next,
+PAGE,
+title,General Information
+text,Is There Any Additional Information That You Want To Make Us Aware Of.
+submit,
