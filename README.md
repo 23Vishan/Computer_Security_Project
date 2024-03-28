@@ -3,3 +3,6 @@
 
 Group Members
 - Vishan Patel - 100784201
+- Eric Hua - 100777617
+- Cole McMullin - 100700980
+- Abdullah Khan - 100755624
